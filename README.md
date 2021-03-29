@@ -4,13 +4,9 @@ In this work data set from the UCI Machine Learning repository (available for fr
 Required Libraries:
 
 matplotlib
-
 pandas
-
 numpy
-
 keras
-
 scikit-learn 
 
 
