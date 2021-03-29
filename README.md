@@ -6,7 +6,7 @@ matplotlib
 pandas
 numpy
 keras
-scikit-learn
+scikit-learn 
 
 Explanation about Code:
 Step #1: Preprocessing 
