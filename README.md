@@ -1,5 +1,5 @@
 # Wine-Type-Prediction
-In this work data set from the UCI Machine Learning repository (available for free) is used. 
+In this work data set from the UCI Machine Learning repository (available for free) is used. The data set consist of 12 variables that are included in the data
 
 Required Libraries:
 
