@@ -2,10 +2,10 @@
 In this work data set from the UCI Machine Learning repository (available for free) is used. 
 
 Required Libraries:
-matplotlib
-pandas
-numpy
-keras
+matplotlib, 
+pandas, 
+numpy, 
+keras, 
 scikit-learn 
 
 Explanation about Code:
